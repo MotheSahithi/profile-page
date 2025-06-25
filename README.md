@@ -8,8 +8,8 @@ this profile page contains:-
 4)contact form with name, email, and message
 
 this profile page has 4 files:-
-1)index.html – The main web page
-2)style.css – Styling for the page
-3)script.js – JavaScript for button and form
-4)profile.jpg – Your profile image (add your own)
+1)profile.html – The main web page
+2)profile.css – Styling for the page
+3)profile.js – JavaScript for button and form
+4)photo.jpg – Your profile image (add your own)
 
